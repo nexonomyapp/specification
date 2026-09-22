@@ -1,4 +1,4 @@
-Oui. Je pense que ce premier outil mérite d'être conçu comme un produit autonome, que l'on pourrait appeler provisoirement **Nexonomie Services** ou **Nexonomie Reference**. Il constituerait ensuite une brique scientifique réutilisable par l'application Nexonomie complète.
+Ce premier outil est conçu comme un produit autonome, que l'on pourrait appeler provisoirement **Nexonomie Services** ou **Nexonomie Reference**. Il constituerait ensuite une brique scientifique réutilisable par l'application Nexonomie complète.
 
 L'idée centrale est de séparer très nettement **l'entité**, **le service**, **le modèle scientifique**, **le contexte local** et **la conversion économique**. Voici une spécification structurée que tu pourrais ensuite transformer en document de repository.
 
